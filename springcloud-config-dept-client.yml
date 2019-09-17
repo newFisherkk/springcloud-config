@@ -51,7 +51,7 @@ mybatis:
 
 spring:
   application:
-    name: springcloud-department
+    name: springcloud-department-config
   profiles: test
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource            # 当前数据源操作类型
